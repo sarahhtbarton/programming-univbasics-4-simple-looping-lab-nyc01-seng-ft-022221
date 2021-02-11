@@ -17,7 +17,7 @@ def loop_messge_n_times(string, integer)
     count += 1 
   end
 end
-puts loop_messge_n_times('sick', 7)
+puts loop_messge_n_times('Hello Moon', 7)
 
 
 def output_array(array)
