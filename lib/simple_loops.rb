@@ -10,7 +10,7 @@ end
 puts loop_message_five_times('Hello World.')
 
 
-def loop_messge_n_times(string, integer)
+def loop_message_n_times(string, integer)
   count = 0 
   while count < integer do
     puts string
