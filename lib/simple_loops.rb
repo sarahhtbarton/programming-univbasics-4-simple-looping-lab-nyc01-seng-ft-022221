@@ -12,7 +12,7 @@ end
 puts loop_messge_n_times('wazzup', 7)
 
 
-def output_array()
+def output_array(array)
   
 end
 puts output_array()
